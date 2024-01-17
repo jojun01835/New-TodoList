@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e9838aa.css",
+    "main.js": "/static/js/main.a357515c.js",
+    "static/media/SEBANG Gothic.ttf": "/static/media/SEBANG Gothic.3e9ea88a9f2dafefc1bb.ttf",
+    "static/media/family-time.png": "/static/media/family-time.17c7f3b978238b2c43e2.png",
+    "static/media/playing-guitar.png": "/static/media/playing-guitar.615290c1fa31ca6d9102.png",
+    "static/media/cooking.png": "/static/media/cooking.f37c4eb8360c2ded0229.png",
+    "static/media/romantic-walk.png": "/static/media/romantic-walk.6951f671822722a21240.png",
+    "static/media/constructing.png": "/static/media/constructing.ff6e1b0d795baa9f275d.png",
+    "static/media/working-on-computer.png": "/static/media/working-on-computer.fe7c31f398eba0258f20.png",
+    "static/media/working-out.png": "/static/media/working-out.345da94080e9007e537a.png",
+    "index.html": "/index.html",
+    "main.5e9838aa.css.map": "/static/css/main.5e9838aa.css.map",
+    "main.a357515c.js.map": "/static/js/main.a357515c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e9838aa.css",
+    "static/js/main.a357515c.js"
+  ]
+}
